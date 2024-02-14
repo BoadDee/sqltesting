@@ -32,7 +32,7 @@ jobs:
         uses: actions/upload-artifact@v3.1.3
         with:
           name: DareDacpac
-          path: ${{ github.workspace}}code/MofiToni/bin/Release
+          path: ${{ github.workspace}}/code/MofiToni/bin/Release
     
   # deploy_de:
   #   uses: ./.github/workflows/dare-sql-deploy-template.yml
