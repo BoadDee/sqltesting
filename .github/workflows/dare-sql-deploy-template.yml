@@ -45,7 +45,7 @@ jobs:
     environment: ${{ inputs.environment }}
     steps:
       - name: Download Dacpac
-        uses: actions/download-artifact@v2.1,1
+        uses: actions/download-artifact@v2.1.1
         with:
           name: ${{ inputs.artifactName }}
           path: ${{ github.workspace }}
