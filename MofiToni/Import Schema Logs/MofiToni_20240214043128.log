@@ -1,0 +1,10 @@
+2024-02-13 9:31:28 PM	This log contains information about the import schema operation into project 'MofiToni' on computer 'DARE' by user 'boade'.
+2024-02-13 9:31:28 PM	Deserializing model
+2024-02-13 9:31:28 PM	Resolving model
+2024-02-13 9:31:29 PM	Visiting imported model for types
+2024-02-13 9:31:29 PM	Scanning project for duplicate elements
+2024-02-13 9:31:29 PM	Finished duplicate element processing
+2024-02-13 9:31:32 PM	Processing extra files
+2024-02-13 9:31:32 PM	Finished importing Data-tier Application file.
+2024-02-13 9:31:32 PM	A summary of the import was saved to the following location: C:\Users\boade\source\repos\MofiToni\MofiToni\Import Schema Logs\MofiToni_20240214043128.log
+2024-02-13 9:31:32 PM	Click Finish to continue...
